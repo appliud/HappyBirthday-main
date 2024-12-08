@@ -128,7 +128,7 @@ body {
   top: -70px;
   left: 49%;
   /* 等比例扩大图片到2倍 */
-  transform: scale(1.0);
+  transform: scale(1.1);
 }
 
 .baloons img {
